@@ -15,10 +15,10 @@ acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 tvg-id="M+ LaLiga TV 1080p" tvg-name="M+ LaLiga TV 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV 1080p
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV alt. 1080p" tvg-name="M+ LaLiga TV alt. 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV alt. 1080p
+#EXTINF:-1 tvg-id="M+ LaLiga TV alternativo. 1080p" tvg-name="M+ LaLiga TV alt. 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV alt. 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV alt. 2 1080p" tvg-name="M+ LaLiga TV alt. 2 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV alt. 2 1080p
+#EXTINF:-1 tvg-id="M+ LaLiga TV alternativo. 2 1080p" tvg-name="M+ LaLiga TV alt. 2 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV alt. 2 1080p
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 720p" tvg-name="M+ LaLiga TV 720p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV 720p
@@ -39,7 +39,7 @@ acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 1080p" tvg-name="M+ Liga de Campeones 1080p" tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="M+ Liga de Campeones", M+ Liga de Campeones 1080p
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones alt. 1080p" tvg-name="M+ Liga de Campeones alt. 1080p" tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="M+ Liga de Campeones", M+ Liga de Campeones alt. 1080p
+#EXTINF:-1 tvg-id="M+ Liga de Campeones alternativo. 1080p" tvg-name="M+ Liga de Campeones alt. 1080p" tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="M+ Liga de Campeones", M+ Liga de Campeones alt. 1080p
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 720p" tvg-name="M+ Liga de Campeones 720p" tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="M+ Liga de Campeones", M+ Liga de Campeones 720p
@@ -78,14 +78,8 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="DAZN 1 1080p" tvg-name="DAZN 1 1080p" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" group-title="DAZN", DAZN 1 1080p
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
-#EXTINF:-1 tvg-id="DAZN 1 720p" tvg-name="DAZN 1 720p" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" group-title="DAZN", DAZN 1 720p
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-
 #EXTINF:-1 tvg-id="DAZN 2 1080p" tvg-name="DAZN 2 1080p" tvg-logo="https://i.postimg.cc/mkjdb3Sb/dazn2.png" group-title="DAZN", DAZN 2 1080p
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-
-#EXTINF:-1 tvg-id="DAZN 2 720p" tvg-name="DAZN 2 720p" tvg-logo="https://i.postimg.cc/mkjdb3Sb/dazn2.png" group-title="DAZN", DAZN 2 720p
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://i.postimg.cc/MKssNDT5/dazn3.png" group-title="DAZN", DAZN 3
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
@@ -96,7 +90,7 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-id="DAZN F1 1080p" tvg-name="DAZN F1 1080p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="DAZN F1", DAZN F1 1080p
 acestream://5789ca155323664edd293b848606688edf803f4d
 
-#EXTINF:-1 tvg-id="DAZN F1 alt. 1080p" tvg-name="DAZN F1 alt. 1080p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="DAZN F1", DAZN F1 alt. 1080p
+#EXTINF:-1 tvg-id="DAZN F1 alternativo. 1080p" tvg-name="DAZN F1 alt. 1080p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="DAZN F1", DAZN F1 alt. 1080p
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-id="DAZN F1 720p" tvg-name="DAZN F1 720p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="DAZN F1", DAZN F1 720p
