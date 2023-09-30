@@ -87,6 +87,12 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="DAZN F1 720p" tvg-name="DAZN F1 720p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="DAZN F1", DAZN F1 720p
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
+#EXTINF:-1 tvg-id="F1 TV 1080p" tvg-name="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1 TV 1080p", F1 TV 1080p
+acestream://b211402ab4128e70364a4baaed0ee009e56db4da
+
+#EXTINF:-1 tvg-id="F1 TV 1080p alternativo." tvg-name="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1 TV 1080p", F1 TV 1080p
+acestream://3829f1b4590354c54db44d663710ab711eaff024
+
 #EXTINF:-1 tvg-id="EuroSport 1" tvg-name="EuroSport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
