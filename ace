@@ -98,3 +98,18 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="EuroSport", EuroSport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 tvg-id="#Vamos 1080" tvg-name="#Vamos 1080" tvg-logo="https://i.postimg.cc/ryD8hjQF/vamosndp.png" group-title="#Vamos 1080", #Vamos 1080
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1 tvg-id="GOL TV 1080" tvg-name="GOL TV 1080" tvg-logo="https://i.postimg.cc/QCGnJjf7/og-image2.jpg" group-title="GOL TV 1080", GOL TV 1080
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i.postimg.cc/d189vr97/1646327585123.jpg" group-title="Tennis Channel", Tennis Channel
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+
+#EXTINF:-1 tvg-id="BeMad 1080" tvg-name="BeMad 1080" tvg-logo="https://i.postimg.cc/FzHkqLCX/bemad.jpg" group-title="BeMad 1080", BeMad 1080
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+
+#EXTINF:-1 tvg-id="beIN SPORTS ñ" tvg-name="beIN SPORTS ñ" tvg-logo="https://i.postimg.cc/w3KHJKm4/bein.jpg" group-title="beIN SPORTS ñ", beIN SPORTS ñ
+acestream://41af6926a6010b68ba2540975761436bb077748f
