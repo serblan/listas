@@ -113,3 +113,12 @@ acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 
 #EXTINF:-1 tvg-id="beIN SPORTS ñ" tvg-name="beIN SPORTS ñ" tvg-logo="https://i.postimg.cc/w3KHJKm4/bein.jpg" group-title="beIN SPORTS ñ", beIN SPORTS ñ
 acestream://41af6926a6010b68ba2540975761436bb077748f
+
+#EXTINF:-1 tvg-id="M+ Movistar+" tvg-name="M+ Movistar+" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" group-title="M+ Movistar+", M+ Movistar+
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+#EXTINF:-1 tvg-id="NBA USA 1" tvg-name="NBA USA 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="NBA USA 1", NBA USA 1
+acestream://39db49bc89dcc3c8797566231f869dca57f1a47e
+
+#EXTINF:-1 tvg-id="NBA USA 2" tvg-name="NBA USA 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="NBA USA 2", NBA USA 2
+acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110
