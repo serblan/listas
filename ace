@@ -125,3 +125,9 @@ acestream://39db49bc89dcc3c8797566231f869dca57f1a47e
 
 #EXTINF:-1 tvg-id="NBA USA 2" tvg-name="NBA USA 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="NBA USA 2", NBA USA 2
 acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110
+
+#EXTINF:-1 tvg-id="BARSA-MADRID" tvg-name="BARSA-MADRID" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="BARSA-MADRID", BARSA-MADRID
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+
+#EXTINF:-1 tvg-id="BARSA-MADRID" tvg-name="BARSA-MADRID2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="BARSA-MADRID", BARSA-MADRID2
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
