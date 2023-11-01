@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF: -1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="6" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Movistar +", Toros
 Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
 
