@@ -1,10 +1,4 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-id="La1.es" tvg-name="La 1" tvg-chno="1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", La 1
-acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
-
-#EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT", La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF: -1 tvg-id="La2.es" tvg-name="La 2" tvg-chno="3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="TDT", La 2
-https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV 1080p
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
