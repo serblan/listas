@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="M+ LaLiga TV", M+ LaLiga TV 1080p
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
