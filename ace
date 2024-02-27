@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" group-title="LaLiga1", DAZN LaLiga 1080p
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" group-title="LaLiga", DAZN LaLiga 1080p
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" group-title="LaLiga", DAZN LaLiga alt. 1080p
