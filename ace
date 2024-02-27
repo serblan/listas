@@ -81,7 +81,7 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="DAZN", DAZN F1 4K
 acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 1080p
 acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 alt. 1080p
