@@ -30,7 +30,7 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV2 720p
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV3
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV3 1080p
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" group-title="LaLiga", M+ LaLiga TV BAR
