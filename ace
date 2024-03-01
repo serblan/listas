@@ -90,11 +90,17 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 720p
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 1080p Multi Cam
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+
 #EXTINF:-1 tvg-id="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1", F1 TV 1080p
 acestream://b211402ab4128e70364a4baaed0ee009e56db4da
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 1080p Multi Cam
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 tvg-id="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1", F1 TV alt. 1080p
+acestream://036102d0e1f12a0295816fabe4b0a891e174be0b
+
+#EXTINF:-1 tvg-id="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1", F1 TV esp 720p
+acestream://8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
 
 #EXTINF:-1 tvg-id="EuroSport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
