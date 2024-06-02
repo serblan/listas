@@ -90,12 +90,6 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-id="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1", F1 TV 1080p
 acestream://036102d0e1f12a0295816fabe4b0a891e174be0b
 
-#EXTINF:-1 tvg-id="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1", F1 TV 720p
-acestream://d2b62dc65b7a4b0b9d448de93771580a5eadef6c
-
-#EXTINF:-1 tvg-id="F1 TV 1080p" tvg-logo="https://i.postimg.cc/kgb9xBFh/logo.png" group-title="F1", F1 TV esp 720p
-acestream://8c92cfef8dd37e2dd2d3b8985b81cc7708e24d3c
-
 #EXTINF:-1 tvg-id="EuroSport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
@@ -107,9 +101,6 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.postimg.cc/QCGnJjf7/og-image2.jpg" group-title="otros", GOL TV 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
-
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://i.postimg.cc/d189vr97/1646327585123.jpg" group-title="otros", Tennis Channel
-acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://i.postimg.cc/FzHkqLCX/bemad.jpg" group-title="otros", BeMad 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
