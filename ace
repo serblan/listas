@@ -36,6 +36,15 @@ acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" group-title="LaLiga", M+ LaLiga TV BAR
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Smartbank 1080p
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Smartbank 720p
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Smartbank TV2 1080p
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones 1080p
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
@@ -99,14 +108,8 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.postimg.cc/ryD8hjQF/vamosndp.png" group-title="otros", #Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.postimg.cc/QCGnJjf7/og-image2.jpg" group-title="otros", GOL TV 1080
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://i.postimg.cc/FzHkqLCX/bemad.jpg" group-title="otros", BeMad 1080
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
-
-#EXTINF:-1 tvg-id="beIN SPORTS ñ" tvg-logo="https://i.postimg.cc/w3KHJKm4/bein.jpg" group-title="otros", beIN SPORTS ñ
-acestream://41af6926a6010b68ba2540975761436bb077748f
 
 #EXTINF:-1 tvg-id="Movistar plus+" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" group-title="otros", M+ Movistar+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
