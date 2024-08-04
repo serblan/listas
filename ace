@@ -57,6 +57,9 @@ acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones 2 1080p
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones 2 720p
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones 3 1080p
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
