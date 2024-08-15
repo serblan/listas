@@ -36,13 +36,13 @@ acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" group-title="LaLiga", M+ LaLiga TV BAR [1] 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Smartbank [1] 1080p
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [1] 1080p
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Smartbank [1] 720p
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [1] 720p
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Smartbank [2] 1080p
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [2] 1080p
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 1080p
