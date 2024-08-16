@@ -33,7 +33,7 @@ acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [3] 1080p
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" group-title="LaLiga", M+ LaLiga TV BAR [1] 1080p
+#EXTINF:-1 tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" group-title="LaLiga", M+ LaLiga TV BAR 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [1] 1080p
@@ -90,13 +90,13 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.postimg.cc/PfQVzhnB/dazn4.png" group-title="DAZN", DAZN [4] 1080p
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 1080p
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1] 1080p
 acestream://5789ca155323664edd293b848606688edf803f4d
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 .alt 1080p
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1].alt 1080p
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 720p
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1] 720p
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-id="EuroSport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport [1] 1080p
