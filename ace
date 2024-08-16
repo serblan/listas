@@ -18,6 +18,9 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [1].alt 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [1].alt2 1080p
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [1] 720p
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
@@ -29,9 +32,6 @@ acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [3] 1080p
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
-
-#EXTINF:-1 tvg-id="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" group-title="LaLiga", M+ LaLiga TV BAR 1080p
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [1] 1080p
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
