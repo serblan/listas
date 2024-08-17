@@ -42,10 +42,10 @@ acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [2] 1080p
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 1080p
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 1080p
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/j2X7pNPv/ligacamp.png" group-title="Liga de Campeones", M+ Liga de Campeones [1].alt 1080p
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1].alt 1080p
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 720p
