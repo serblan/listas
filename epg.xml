@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="DAZN LALIGA">
-    <display-name lang="es">LA 1</display-name>
+    <display-name lang="es">DAZN LALIGA</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
