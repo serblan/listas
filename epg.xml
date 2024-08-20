@@ -5,10 +5,8 @@
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
-<programme start="20240820002000 +0200" stop="20240820011500 +0200" channel="DAZN LALIGA">
+  <programme start="20240820002000 +0200" stop="20240820011500 +0200" channel="DAZN LALIGA">
     <title lang="es">Vuelvo a empezar</title>
-    <desc lang="es"> | +TP | 2024 | España | Tertulia. 
-Argumento: La historia de personas que han dejado su vida en la gran ciudad para instalarse en pequeños pueblos de la España rural y aprovechar las oportunidades y calidad de vida que estos ofrecen. </desc>
     <category lang="es">Tertulia</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3418613" />
     <country lang="es">España</country>
