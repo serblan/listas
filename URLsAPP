@@ -1,5 +1,3 @@
-{
-    "epgUrl": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml",
-    "acestreamUrl": "https://raw.githubusercontent.com/serblan/listas/main/ace",
-    "programmingUrl": "https://eventos-liartvercelapp.vercel.app"
-}
+https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+https://raw.githubusercontent.com/serblan/listas/main/ace
+https://eventos-liartvercelapp.vercel.app"
