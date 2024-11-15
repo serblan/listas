@@ -1,0 +1,3 @@
+const epgUrl = 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml';
+const acestreamUrl = 'https://raw.githubusercontent.com/serblan/listas/main/ace';
+const programmingUrl = 'https://eventos-liartvercelapp.vercel.app';
