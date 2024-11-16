@@ -2,3 +2,9 @@
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" group-title="LaLiga", DAZN LaLiga HD
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/qMb5RQrT/tv-station-es-eurosport-1-615.png" group-title="EuroSport", Eurosport 1 HD
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.postimg.cc/L8P3pV6v/tv-station-es-eurosport-2-616.png" group-title="EuroSport", Eurosport 1 HD
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
