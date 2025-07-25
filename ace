@@ -13,7 +13,7 @@ acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" group-title="LaLiga", DAZN LaLiga [2] 1080p
-acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+acestream://c976c7b37964322752db562b4ad65515509c8d36
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [1] 1080p
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
@@ -34,7 +34,7 @@ acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV 3 HD" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [3] 1080p
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
+acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/L4rp9T9x/La-Liga-Hypermotion-V.png" group-title="LaLiga2", M+ LaLiga Hypermotion [1] 1080p
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
@@ -46,22 +46,22 @@ acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 1080p
-acestream://0a26e20f39845e928411e09a124374fccb6e1478
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1].alt 1080p
-acestream://775abd8697715c48a357906d40734ccd2a10513c
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 720p
-acestream://8edb264520569b2280c5e86b2dc734e120032903
+acestream://b028202ff335911db3118bceac027df3e8ef6c32
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [2] 1080p
-acestream://c070cdb701fc46bb79d17568d99fc64620443d63
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [2] 720p
-acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [3] 1080p
-acestream://3618edda333dad5374ac2c801f5f14483934b97d
+acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [4] 1080p
 acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
@@ -70,19 +70,19 @@ acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
 acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.postimg.cc/1zHRnL3t/tv-station-movistar-deportes-364.png" group-title="M+ Deportes", M+ Deportes [1] 1080p
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.postimg.cc/3Ng3h6VY/tv-station-movistar-deportes-2-365.png" group-title="M+ Deportes", M+ Deportes [2] 1080p
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 
 #EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" group-title="M+ Deportes", M+ Golf 1080p
 acestream://f41f1096862767289620be5bd85727f946a434db
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" group-title="DAZN", DAZN [1] 1080p
-acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://i.postimg.cc/mkjdb3Sb/dazn2.png" group-title="DAZN", DAZN [2] 1080p
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1] 1080p
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
@@ -97,19 +97,19 @@ acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/qMb5RQrT/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport [1] 1080p
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
 
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/qMb5RQrT/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport [1].alt 1080p
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.postimg.cc/qMb5RQrT/tv-station-es-eurosport-1-615.png" group-title="EuroSport", EuroSport [1] 720p
+acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.postimg.cc/L8P3pV6v/tv-station-es-eurosport-2-616.png" group-title="EuroSport", EuroSport [2] 1080p
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
+acestream://0585e09bb8ac9720e4c11934f1b184e309291551
 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.postimg.cc/L8P3pV6v/tv-station-es-eurosport-2-616.png" group-title="EuroSport", EuroSport [2].alt 1080p
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.postimg.cc/L8P3pV6v/tv-station-es-eurosport-2-616.png" group-title="EuroSport", EuroSport [2] 720p
+acestream://5c910d614894635153a7d42de98cc2e4a958a53f
 
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.postimg.cc/ryD8hjQF/vamosndp.png" group-title="otros", #Vamos 1080p
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.postimg.cc/PJL8MtCK/a2451.png" group-title="otros", M+ Movistar+ 1080p
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
