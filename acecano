@@ -26,6 +26,8 @@ acestream://22b702984a0db43fd371c30e2df150b2336551cd
 acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 1080p
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1
+acestream://9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="EUROSPORT",Eurosport 2 *
 acestream://f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="EUROSPORT",Eurosport 2 **
