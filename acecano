@@ -42,12 +42,8 @@ acestream://908bc5e7ae52afc06e40793b6db749dba11a1780
 acestream://d669c6cee7173a1c8994075f7050a6526655b1dc
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 4
 acestream://9ced16b2055c99bf89c26e678e315e1b01d3734c
-#EXTINF:-1 tvg-logo="https://www.adriaeco.eu/wp-content/uploads/2021/08/DAZN.png" group-title="DAZN",DAZN Serie A 1080p *
+#EXTINF:-1 tvg-logo="https://www.adriaeco.eu/wp-content/uploads/2021/08/DAZN.png" group-title="DAZN",DAZN Serie A 1080p
 acestream://9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
-#EXTINF:-1 tvg-logo="https://www.adriaeco.eu/wp-content/uploads/2021/08/DAZN.png" group-title="DAZN",DAZN Serie A 1080p **
-acestream://0284cadccea27a42a3072ba373b2dd908bf63fc3
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 720p
-acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" group-title="EUROSPORT",Eurosport 2
 acestream://f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 720p *
@@ -55,9 +51,9 @@ acestream://27d11bbeb3026231d52de16b1fac48da7a099247
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 720p **
 acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p *
-acestream://895d08633bb22c2573281655cf3ca44de476cc73
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
 acestream://d719181097d256073844390b3e094fbcb1bceaa4
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
+acestream://895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p
 acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 1080p *
@@ -91,17 +87,17 @@ acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga
 acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p *
-acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p **
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p **
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p ***
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p *
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p ***
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p ***
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="LA LIGA",SKY Sports LaLiga 1080p
 acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="LA LIGA",SKY Sports LaLiga SD
