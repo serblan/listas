@@ -144,6 +144,8 @@ acestream://177796041773be99b489dd3ce86144f243e7355f
 acestream://1acd38e6176c782f5184c8736e0cf7127b65798b
 #EXTINF:-1 tvg-logo="https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.digiturk.ligtv.jpg" group-title="DEPORTES",Bein Sports 2 TR 1080p
 acestream://d96bb710c4e50323e773ce0270567d99837a89fb
+#EXTINF:-1 tvg-logo="https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.digiturk.ligtv.jpg" group-title="DEPORTES",Bein Sports 3 TR 720p
+acestream://229419659a062e80a088bb049137dafa9c9952fe
 #EXTINF:-1 tvg-logo="https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.digiturk.ligtv.jpg" group-title="DEPORTES",Bein Sports TR 1080p
 acestream://e7ddca738693a902ce34fb80788b220676c15801
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",Direct Sport 2 1080p
