@@ -34,6 +34,12 @@ acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
 acestream://e6cd9205e26b3b6680f607030c702e911272524a
 #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/M2114916V1621463" group-title="MOVISTAR DEPORTES",M+ Deportes 6 1080p **
 acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/M2114916V1621463" group-title="MOVISTAR DEPORTES",M+ Deportes 7 720p
+acestream://216bdeb54d18a06e8c9e2e337c5dc3f13f69bad4
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/M2114916V1621463" group-title="MOVISTAR DEPORTES",M+ Deportes 7 1080p *
+acestream://9b38816906198580dbeb35b68673e1d060668e05
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/M2114916V1621463" group-title="MOVISTAR DEPORTES",M+ Deportes 7 1080p **
+acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda
 #EXTINF:-1 tvg-id="M+ Deportes 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-8-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 8 720p
 acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a
 #EXTINF:-1 tvg-id="M+ Deportes 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-8-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 8 1080p
