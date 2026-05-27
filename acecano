@@ -38,8 +38,6 @@ acestream://e6cd9205e26b3b6680f607030c702e911272524a
 acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6
 #EXTINF:-1 tvg-id="M+ Deportes 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-8-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 8 1080p
 acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 720p
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 tvg-id="M+ Vamos 2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 2 720p
 acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 #EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p
