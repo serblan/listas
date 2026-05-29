@@ -47,16 +47,14 @@ acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/24h_2026.svg" group-title="TDT",24H TV 720p
 acestream://16598735f228c6dff542125d0e308150b50fc715
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV *
-acestream://12404b00d2787995d639ccf71a80da5d39d153f9
-#EXTINF:-1 tvg-id="DE | Rally TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV **
 acestream://b6ca8e022947548af61d76660b6b6f799a778d31
+#EXTINF:-1 tvg-id="DE | Rally TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV **
+acestream://12404b00d2787995d639ccf71a80da5d39d153f9
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-real-madrid-tv-158.jpg.pagespeed.ic.MN53oqBu9E.jpg" group-title="DEPORTES",Real Madrid TV 1080p
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2023/02/New-NBA-Logo-379x220.png" group-title="NBA",NBA ESPN 1080p
 acestream://812726de17b7fdc6c0b5139b012fe336a049903a
