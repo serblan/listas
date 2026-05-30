@@ -130,9 +130,7 @@ acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1
 acestream://12404b00d2787995d639ccf71a80da5d39d153f9
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV **
 acestream://b6ca8e022947548af61d76660b6b6f799a778d31
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-real-madrid-tv-158.jpg.pagespeed.ic.MN53oqBu9E.jpg" group-title="DEPORTES",Real Madrid TV 1080p *
-acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-real-madrid-tv-158.jpg.pagespeed.ic.MN53oqBu9E.jpg" group-title="DEPORTES",Real Madrid TV 1080p **
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-real-madrid-tv-158.jpg.pagespeed.ic.MN53oqBu9E.jpg" group-title="DEPORTES",Real Madrid TV 1080p
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="DEPORTES",Sport TV1 1080p
 acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
