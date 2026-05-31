@@ -108,9 +108,7 @@ acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p
 acestream://ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
-acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:-1 tvg-logo="https://ucarecdn.com/957c50de-f93e-4d7e-a276-243d5961934a/-/format/auto/-/preview/1024x1024/-/quality/lighter/Isle-of-Man-TT.png" group-title="MOTOS",Isle of Man TT
 acestream://6fab41ee3056c0324a43109367a5a23996719c5b
