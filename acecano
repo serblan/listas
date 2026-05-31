@@ -104,6 +104,8 @@ acestream://9bc65384425e92f3a28f977508db3df62d037300
 acestream://4a53f3b7ebaef91aea7d46613fc4869e09d352c6
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-real-madrid-tv-158.jpg.pagespeed.ic.MN53oqBu9E.jpg" group-title="DEPORTES",Real Madrid TV 1080p
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="DEPORTES",Sport TV1 1080p
+acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 720p
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p
