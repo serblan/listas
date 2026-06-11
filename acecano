@@ -59,6 +59,6 @@ acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 group-title="TVE",LA 1 TVE 4K
 acestream://5eb31cc9715de65c20b0ffb39a785590d93a42a0
 #EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p *
-acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
-#EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p **
 acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
+#EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p **
+acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
