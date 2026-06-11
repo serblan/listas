@@ -37,9 +37,9 @@ acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE *
-acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
+acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://img2.rtve.es/n/2220921" group-title="TDT",La 2 TVE 1080p
 acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7
 #EXTINF:-1 group-title="CAMPEONES",M LIGA DE CAMPEONES 720p
@@ -48,5 +48,13 @@ acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title="GOLF",M GOLF 720p
+acestream://f60535a458b3c114283e2f433379144345beddd6
+#EXTINF:-1 group-title="GOLF",M GOLF 1080p
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p *
+acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
+#EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p **
+acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
