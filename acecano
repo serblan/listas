@@ -48,12 +48,16 @@ acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/63/631907.png" group-title="DEPORTES",TV5Monde Europe
+acestream://132c96f09c26b6792fdf19751816788a1747c5f4
 #EXTINF:-1 group-title="GOLF",M GOLF 720p
 acestream://f60535a458b3c114283e2f433379144345beddd6
 #EXTINF:-1 group-title="GOLF",M GOLF 1080p
 acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 group-title="TVE",LA 1 TVE 4K
+acestream://5eb31cc9715de65c20b0ffb39a785590d93a42a0
 #EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p *
 acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 group-title="VAMOS",M VAMOS 3 1080p **
