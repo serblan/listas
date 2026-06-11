@@ -40,8 +40,6 @@ acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p **
 acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE 4K
-acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE *
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
