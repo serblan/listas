@@ -27,9 +27,9 @@ acestream://8522af51ae7189b12effabbb448dcb707195ce1a
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 720p
 acestream://27d11bbeb3026231d52de16b1fac48da7a099247
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p *
-acestream://d719181097d256073844390b3e094fbcb1bceaa4
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
 acestream://895d08633bb22c2573281655cf3ca44de476cc73
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
+acestream://d719181097d256073844390b3e094fbcb1bceaa4
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p ***
 acestream://02be332ebead0484a5354fa25e97b6833b8b129e
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p ****
@@ -59,15 +59,15 @@ acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p *
-acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
-#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p **
 acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p **
+acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE 4K
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE *
-acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
+acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
 #EXTINF:-1 tvg-id="La 2" tvg-logo="https://img2.rtve.es/n/2220921" group-title="TDT",La 2 TVE 1080p
 acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" group-title="TDT",Telecinco 1080p
