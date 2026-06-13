@@ -57,11 +57,11 @@ acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p *
 acestream://895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p **
-acestream://02be332ebead0484a5354fa25e97b6833b8b129e
+acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p ***
 acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1",DAZN F1 1080p ****
-acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
+acestream://02be332ebead0484a5354fa25e97b6833b8b129e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p
 acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 1080p
@@ -145,9 +145,9 @@ acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ VAMOS 3 1080p
 acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p *
-acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p **
 acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p **
+acestream://177796041773be99b489dd3ce86144f243e7355f
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p ***
 acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p ****
@@ -188,8 +188,6 @@ acestream://12404b00d2787995d639ccf71a80da5d39d153f9
 acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-real-madrid-tv-158.jpg.pagespeed.ic.MN53oqBu9E.jpg" group-title="DEPORTES",Real Madrid TV 1080p **
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 720p
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p *
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
@@ -214,3 +212,7 @@ acestream://a4cbadd19442b800727be713270fa9c917cc8582
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg.png" group-title="UFC",UFC FIGHT PASS 1080p
 acestream://30076dd69653452e6be4a65b125bc41006686f19
+#EXTINF:-1 group-title="OTROS",Catar Suiza
+acestream://293693617e761b8bedd65c7b781686e2c100fa26
+#EXTINF:-1 group-title="OTROS",TSN+
+acestream://8374a313823bbaa3140ca510a172cbc1830f609c
