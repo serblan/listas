@@ -63,9 +63,9 @@ acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p *
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p ***
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p ***
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/223/270/png-clipart-televisa-xhgc-tdt-television-channel-canal-5-others-television-white-thumbnail.png" group-title="MUNDIAL",CANAL 5 MX 1080p
 acestream://2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9
 #EXTINF:-1 tvg-logo="https://tavilatam.com/wp-content/uploads/2025/03/TAVI_CazeTV_Mundial-de-clubes-1.png" group-title="MUNDIAL",CAZE TV
