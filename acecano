@@ -48,6 +48,8 @@ acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
 acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",Direct Sport+ 1080p
+acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 720p *
 acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 720p **
@@ -72,13 +74,9 @@ acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
 acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 2 **
 acestream://63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 3 *
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 3
 acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 3 **
-acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 4 *
-acestream://584e20154750a15d14cb59953bb9cdd923c331bb
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 4 **
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 4
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="MUNDIAL",Direct Sport 1080p
 acestream://79e6e01eb3db42e3da2428895181c0d32e4abd1f
@@ -88,10 +86,6 @@ acestream://1b25b195b1b84d4b96830410657718e9e275ad49
 acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061
 #EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 1
 acestream://e8670925c3bfd0ceafa54192772a6b8a482bd94b
-#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 2
-acestream://0e6ba5e9872838a8740f4b2679d522f896b3448c
-#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 3
-acestream://d07816dade862339446b6c2a16d131617a3a9389
 #EXTINF:-1 tvg-logo="https://images.hoy.cr/wp-content/uploads/2026/02/FOX.jpeg" group-title="MUNDIAL",Fox Sport 1080p
 acestream://91826b587ffc2a94dcb104928fca7a33ae6b4ce9
 #EXTINF:-1 tvg-logo="https://images.hoy.cr/wp-content/uploads/2026/02/FOX.jpeg" group-title="MUNDIAL",Fox Sport 4K
