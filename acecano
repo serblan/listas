@@ -56,9 +56,7 @@ acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExzu7xibD1sz89l8PlnxvB8oUMOOhDLKywQ&s" group-title="DEPORTES",RALLY TV
 acestream://12404b00d2787995d639ccf71a80da5d39d153f9
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p *
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 *
 acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
