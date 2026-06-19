@@ -87,13 +87,13 @@ acestream://59f2d0e15869d73f19d7ac441d5aedffb6c4ebb8
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
-acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
 acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p ***
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p ****
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p ****
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="MUNDIAL",Direct Sport 1080p
