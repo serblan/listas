@@ -40,14 +40,12 @@ acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 720p
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Disney%20Junior.png?raw=true" group-title="TDT",Disney Junior 1080p
 acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE *
-acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
 acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE **
+acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",Direct Sport+ 1080p
 acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 720p
