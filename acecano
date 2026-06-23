@@ -64,8 +64,14 @@ acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
 acestream://584e20154750a15d14cb59953bb9cdd923c331bb
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 4 **
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 1
+#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 1 *
 acestream://e8670925c3bfd0ceafa54192772a6b8a482bd94b
+#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 1 **
+acestream://961cb142fb97d1307a4c5637d525bad6d534ec94
+#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 2
+acestream://0e6ba5e9872838a8740f4b2679d522f896b3448c
+#EXTINF:-1 tvg-logo="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/World-Cup-Trophy---Football-Award-Winner-Event-General-Secondary.png" group-title="MUNDIAL",FIFA World Cup 3
+acestream://d07816dade862339446b6c2a16d131617a3a9389
 #EXTINF:-1 group-title="MUNDIAL",FUSSBALL TV 4k 4K
 acestream://3b73feccf6e835b6c4a5a10c3f0425643091cfca
 #EXTINF:-1 group-title="MUNDIAL",TNT Sport 1
