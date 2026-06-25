@@ -40,8 +40,6 @@ acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
 acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 **
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 2
-acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="MUNDIAL",Direct Sport 1080p
 acestream://79e6e01eb3db42e3da2428895181c0d32e4abd1f
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="MUNDIAL",Direct Sport 1 1080p
