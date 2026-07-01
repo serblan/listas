@@ -36,9 +36,7 @@ acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
 acestream://f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 1080p **
 acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 1080p *
-acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 1080p **
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="MOVISTAR DEPORTES",M+ Deportes 4 1080p
 acestream://7bede102385c65a545db531af476ef18c31f6258
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="MOVISTAR DEPORTES",M+ Deportes 5 1080p *
 acestream://646a1ed4ece843de1979f7888cbdd4d937506a28
