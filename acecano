@@ -84,5 +84,3 @@ acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Onetoro.png?raw=true" group-title="TOROS",Onetoro TV 1080p
 acestream://536c879d8a914e43141d778b3567fa017c9f5eeb
-#EXTINF:-1 group-title="OTROS",TSN+
-acestream://8374a313823bbaa3140ca510a172cbc1830f609c
